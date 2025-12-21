@@ -1,9 +1,8 @@
-// 1. Переведення температури з Цельсія у Фаренгейти
+
 let celsius = 25;
 let fahrenheit = celsius * 9 / 5 + 32;
 console.log("Температура у Фаренгейтах:", fahrenheit);
 
-// 2. Кількість годин і хвилин у місяці
 let daysInMonth = 30;
 let hoursInMonth = daysInMonth * 24;
 let minutesInMonth = hoursInMonth * 60;
